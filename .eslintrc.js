@@ -4,15 +4,14 @@ module.exports = {
     es2021: true,
     node: true,
   },
-  extends: "standard",
+  extends: 'standard',
   parserOptions: {
-    ecmaVersion: "latest",
+    ecmaVersion: 'latest',
   },
   rules: {
-    quotes: ["off"],
-    "no-console": "error",
-    semi: "off",
-    "comma-dangle": "off",
-    "space-before-function-paren": "off",
+    semi: 'off',
+    'space-before-function-paren': 'off',
+    'comma-dangle': 'off',
+    'object-curly-spacing': 'off',
   },
 };
