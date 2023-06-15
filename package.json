@@ -1,5 +1,5 @@
 {
-  "name": "passport-easyauth",
+  "name": "@easyauth.io/passport-easyauth",
   "version": "1.0.0",
   "description": "EasyAuth platform authentication Strategy for Passport.js",
   "main": "lib/index.js",
