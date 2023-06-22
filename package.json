@@ -10,6 +10,7 @@
   "author": "easyauth",
   "license": "MIT",
   "dependencies": {
+    "oauth": "^0.10.0",
     "openid-client": "^5.4.2"
   },
   "devDependencies": {
